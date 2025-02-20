@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Meu nome é Nathalia Comeron  Freire</h2>
+<h2 align="left">Hi 👋! Meu nome é Nathalia Comeron Freire</h2>
 
 ###
 
