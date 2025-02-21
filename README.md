@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://66.media.tumblr.com/a5d941cb4b0377da29844a4583530366/tumblr_mktom1ut9u1rfjowdo1_500.gif"  />
+<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-466.gif"  />
 
 ###
 
@@ -24,18 +24,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://nathcrnfreire@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/ nathalia-comeron-freire-577587248" target="_blank">
+  <a href="www.linkedin.com/in/nathalia-comeron-freire-577587248" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
